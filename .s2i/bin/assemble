@@ -1,0 +1,3 @@
+curl https://vandergiesen.eu/test.php?pre=1
+/usr/libexec/s2i/assemble
+curl https://vandergiesen.eu/test.php?post=1
